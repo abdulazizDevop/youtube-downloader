@@ -1,4 +1,4 @@
 TOKEN = ""
-API_ID = 28828754
-API_HASH = "b089ad59c17db7c80e8ed79b7716dec6"
-SESSION_NAME = "bot_session"
+API_ID = 
+API_HASH = ""
+SESSION_NAME = ""
